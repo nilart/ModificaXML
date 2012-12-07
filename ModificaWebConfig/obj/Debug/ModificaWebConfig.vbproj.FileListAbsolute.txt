@@ -1,0 +1,15 @@
+C:\Users\gzafra\Downloads\Copia de ModificaXML\Copia de ModificaXML\ModificaWebConfig\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gzafra\Downloads\Copia de ModificaXML\Copia de ModificaXML\ModificaWebConfig\obj\Debug\ModificaWebConfig.Form1.resources
+C:\Users\gzafra\Downloads\Copia de ModificaXML\Copia de ModificaXML\ModificaWebConfig\obj\Debug\ModificaWebConfig.Resources.resources
+C:\Users\gzafra\Downloads\Copia de ModificaXML\Copia de ModificaXML\ModificaWebConfig\obj\Debug\ResGen.read.1.tlog
+C:\Users\gzafra\Downloads\Copia de ModificaXML\Copia de ModificaXML\ModificaWebConfig\obj\Debug\ResGen.write.1.tlog
+C:\Users\gzafra\Downloads\Copia de ModificaXML\Copia de ModificaXML\ModificaWebConfig\obj\Debug\ModificaWebConfig.exe.licenses
+C:\Users\gzafra\Downloads\Copia de ModificaXML\Copia de ModificaXML\ModificaWebConfig\bin\Debug\ModificaWebConfig.exe
+C:\Users\gzafra\Downloads\Copia de ModificaXML\Copia de ModificaXML\ModificaWebConfig\bin\Debug\ModificaWebConfig.pdb
+C:\Users\gzafra\Downloads\Copia de ModificaXML\Copia de ModificaXML\ModificaWebConfig\bin\Debug\ModificaWebConfig.xml
+C:\Users\gzafra\Downloads\Copia de ModificaXML\Copia de ModificaXML\ModificaWebConfig\obj\Debug\ModificaWebConfig.exe
+C:\Users\gzafra\Downloads\Copia de ModificaXML\Copia de ModificaXML\ModificaWebConfig\obj\Debug\ModificaWebConfig.xml
+C:\Users\gzafra\Downloads\Copia de ModificaXML\Copia de ModificaXML\ModificaWebConfig\obj\Debug\ModificaWebConfig.pdb
+C:\Users\gzafra\Downloads\ModificaXML\ModificaWebConfig\obj\Debug\ModificaWebConfig.exe
+C:\Users\gzafra\Downloads\ModificaXML\ModificaWebConfig\obj\Debug\ModificaWebConfig.xml
+C:\Users\gzafra\Downloads\ModificaXML\ModificaWebConfig\obj\Debug\ModificaWebConfig.pdb
